@@ -1,0 +1,7 @@
+{
+  "name": "AI Powered College Leap",
+  "description": "An application that helps students from grades 8 to 12 take the leap to their ideal college by analyzing their score reports. Features a dummy score generator and personalized college suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
